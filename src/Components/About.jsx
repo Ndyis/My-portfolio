@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Cybersecurity student studying at Jomo kenyatta University of Agriculture and Technology. I am fueled by the remarkable potential of technology, which, much like art, showcases human creativity and innovation. I find immense joy in utilizing technology to develop imaginative solutions that tackle urgent societal issues.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Pen testing",
+  "Security Management",
+  "Compliance Management",
+  "Information protection and Governance",
+  "Identity & Access Management (IAM)",
+  "Programming",
+  "Networking",
 ];
 
 /**
@@ -44,8 +45,8 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+// eslint-disable-next-line prettier/prettier
+const detailOrQuote = " I aim at ensuring the confidentiality, integrity, and availability of information, as well as promoting secure practices and fostering a culture of cybersecurity awareness.I am fueled by the remarkable potential of technology, which, much like art, showcases human creativity and innovation. I find immense joy in utilizing technology to develop imaginative solutions that tackle urgent societal issues. By spearheading advancements in technology, I aim at ensuring the confidentiality, integrity, and availability of information, as well as promoting secure practices and fostering a culture of cybersecurity awareness.";
 
 const About = () => {
   return (
