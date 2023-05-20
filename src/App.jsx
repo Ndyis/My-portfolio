@@ -29,7 +29,7 @@ const siteProps = {
   email: "ndayishimiyeisaac@duck.com",
   gitHub: "https://github.com/Ndyis",
   instagram: "",
-  linkedIn: "linkedin.com/in/isaac-ndayishimiye",
+  linkedIn: "https://www.linkedin.com/in/isaac-ndayishimiye",
   medium: "",
   twitter: "",
   youTube: "",
