@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Created from Microsoft's resume workshop and deployed to azure static web. Includes my experience and design abilities.",
     url: "https://github.com/Ndyis",
   },
   {
