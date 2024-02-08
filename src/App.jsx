@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Isaac Ndayishimiye",
-  title: "Cybersecurity Expert",
+  title: "Cybersecurity practitioner",
   email: "ndayishimiyeisaac@duck.com",
-  gitHub: "/Ndyis",
+  gitHub: "Ndyis",
   instagram: "",
-  linkedIn: "/in/isaac-ndayishimiye",
+  linkedIn: "isaac-ndayishimiye",
   medium: "",
   twitter: "",
   youTube: "",
